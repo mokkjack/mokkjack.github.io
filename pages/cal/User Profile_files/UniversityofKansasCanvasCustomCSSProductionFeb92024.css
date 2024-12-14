@@ -1,0 +1,9 @@
+.email_meta { 
+display: none;
+}
+
+
+/* Hide the default "New Access Token" button */
+.add_access_token_link {
+  display: none !important;
+}
